@@ -9,8 +9,8 @@ import { Component } from '@angular/core';
       h3 {
         color: coral;
       }
-    `
-  ]
+    `,
+  ],
 })
 export class AppComponent {
   name = 'Arief';

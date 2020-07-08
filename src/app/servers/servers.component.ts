@@ -6,9 +6,8 @@ import { Component, OnInit } from '@angular/core';
   // tslint:disable-next-line:component-selector
   // selector: '.app-servers', -> can make app-servers becomes a class of an element
   selector: 'app-servers',
-  template: `
-    <app-server></app-server>
-  <app-server></app-server>`,
+  template: ` <app-server></app-server>
+    <app-server></app-server>`,
   // templateUrl: './servers.component.html',
   styleUrls: ['./servers.component.css'],
 })
