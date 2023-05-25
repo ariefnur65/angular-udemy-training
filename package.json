@@ -30,7 +30,7 @@
     "pretty-quick": "^2.0.1",
     "rxjs": "~6.5.5",
     "save-dev": "0.0.1-security",
-    "tslib": "^2.0.0",
+    "tslib": "^2.5.0",
     "tslint-angular": "^3.0.2",
     "tslint-config-prettier": "^1.18.0",
     "zone.js": "~0.10.3"
