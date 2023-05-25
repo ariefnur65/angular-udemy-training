@@ -33,7 +33,7 @@
     "tslib": "^2.0.0",
     "tslint-angular": "^3.0.2",
     "tslint-config-prettier": "^1.18.0",
-    "zone.js": "~0.10.3"
+    "zone.js": "~0.13.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1000.0",
