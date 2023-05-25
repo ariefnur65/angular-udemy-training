@@ -26,7 +26,7 @@
     "@angular/router": "~10.0.0",
     "bootstrap": "^3.4.1",
     "husky": "^4.2.5",
-    "prettier": "^2.0.5",
+    "prettier": "^2.8.8",
     "pretty-quick": "^2.0.1",
     "rxjs": "~6.5.5",
     "save-dev": "0.0.1-security",
