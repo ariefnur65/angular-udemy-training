@@ -27,7 +27,7 @@
     "bootstrap": "^3.4.1",
     "husky": "^4.2.5",
     "prettier": "^2.0.5",
-    "pretty-quick": "^2.0.1",
+    "pretty-quick": "^4.1.0",
     "rxjs": "~6.5.5",
     "save-dev": "0.0.1-security",
     "tslib": "^2.0.0",
